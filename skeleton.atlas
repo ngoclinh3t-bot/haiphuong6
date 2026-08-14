@@ -1,0 +1,38 @@
+skeleton.png
+	size: 3000, 3000
+	filter: Linear, Linear
+	pma: true
+con dau
+	bounds: 986, 2774, 215, 224
+pbi-duoi
+	bounds: 2278, 461, 720, 1072
+	offsets: 0, 0, 720, 1093
+pbi-open
+	bounds: 171, 153, 1931, 1092
+pbi-open2
+	bounds: 1487, 1067, 1931, 1092
+	rotate: 90
+pbi-open3
+	bounds: 393, 1067, 1931, 1092
+	rotate: 90
+rem1
+	bounds: 2, 1398, 390, 1600
+	offsets: 0, 0, 395, 1600
+sen
+	bounds: 2, 280, 302, 1116
+	rotate: 180
+shadow
+	bounds: 2485, 2278, 720, 511
+	offsets: 1, 30, 722, 556
+	rotate: 90
+
+skeleton_2.png
+	size: 1604, 1604
+	filter: Linear, Linear
+	pma: true
+rem2
+	bounds: 2, 2, 409, 1600
+	offsets: 3, 0, 412, 1600
+shadow2
+	bounds: 413, 747, 720, 855
+	offsets: 1, 48, 722, 904
